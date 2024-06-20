@@ -1,6 +1,6 @@
 # NFCPresenceFix
 
-LSPosed module to fix the NFC presence timeout of AOSP `NcfNci`. Requires an Android phone and https://github.com/LSPosed/LSPosed (e.g. via https://github.com/topjohnwu/Magisk and Zygisk).
+LSPosed module to fix the NFC presence timeout of AOSP `NfcNci`. Requires an Android phone and https://github.com/LSPosed/LSPosed (e.g. via https://github.com/topjohnwu/Magisk and Zygisk).
 
 ## Explanation
 
