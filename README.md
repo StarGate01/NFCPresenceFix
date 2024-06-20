@@ -35,12 +35,12 @@ If everything works as intended, Logcat will display messages like this:
 
 The logs also show up in the LSPosed manager, via module logs.
 
+## Download
+
+You can download prebuilt APKs from the GitHub releases: https://github.com/StarGate01/NFCPresenceFix/releases .
+
 ## Screenshots
 
 ![LSPosed Module](https://github.com/StarGate01/NFCPresenceFix/blob/master/screenshots/signal-2024-06-20-160618_002.png?raw=true)
 
 ![LSPosed Module Apps](https://github.com/StarGate01/NFCPresenceFix/blob/master/screenshots/signal-2024-06-20-160618_003.png?raw=true)
-
-## Download
-
-You can download prebuilt APKs from the GitHub releases: https://github.com/StarGate01/NFCPresenceFix/releases .
