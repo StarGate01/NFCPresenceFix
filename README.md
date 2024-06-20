@@ -4,6 +4,8 @@ LSPosed module to fix the NFC presence timeout of AOSP `NfcNci`. Requires an And
 
 **Important:** I am not responsible for any bricked smartphones or bootloops. Use at your own risk.
 
+**This project is still very alpha and might crash your phone.**
+
 ## Explanation
 
 See https://gitlab.com/LineageOS/issues/android/-/issues/7268 :
