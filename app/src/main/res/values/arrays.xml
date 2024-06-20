@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scope">
+        <item>com.governikus.ausweisapp2</item>
+        <item>com.fidesmo.sec.android</item>
+        <item>com.nect.app.prod</item>
+    </string-array>
+</resources>
