@@ -31,7 +31,7 @@ public class NFCHook implements IXposedHookLoadPackage
                     protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
                         if(param.args[3] == null) param.args[3] = new Bundle();
                         ((Bundle)(param.args[3])).putInt(NfcAdapter.EXTRA_READER_PRESENCE_CHECK_DELAY, 1000);
-                        XposedBridge.log("I/" + TAG + " Modified " + param.args[3].toString());
+                        XposedBridge.log("I/" + TAG + " modified " + param.args[3].toString());
                     }
 
                 });
