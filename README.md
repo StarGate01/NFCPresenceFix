@@ -2,9 +2,11 @@
 
 LSPosed module to fix the NFC presence timeout of AOSP `NfcNci`. Requires an Android phone and https://github.com/LSPosed/LSPosed (e.g. via https://github.com/topjohnwu/Magisk and Zygisk).
 
-**Important:** I am not responsible for any bricked smartphones or bootloops. Use at your own risk.
+> [!CAUTION]
+> Do NOT try to inject this module into any app targeted by **Shamiko** / **Magisk denylist** or your smartphone WILL BOOTLOOP.
 
-**This project is still very alpha and might crash your phone.**
+> [!WARNING]
+> I am not responsible for any bricked smartphones or bootloops. Use at your own risk, and use your brain.
 
 ## Explanation
 
