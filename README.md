@@ -1,3 +1,6 @@
+> [!NOTE]
+> This module is considered deprecated. A better variant of this module can be found at https://github.com/rmnscnce/NfcNci_Patience . That new module injects into the Android NFC process instead of the indivisual apps, which resolves the issues mentioned below.
+
 # NFCPresenceFix
 
 LSPosed module to fix the NFC presence timeout of AOSP `NfcNci`. Requires an Android phone and https://github.com/LSPosed/LSPosed (e.g. via https://github.com/topjohnwu/Magisk and Zygisk).
